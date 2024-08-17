@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ochpochmak14
-- 👀 I’m interested in sport programming
-- 🌱 I’m currently learning c++ alghoritms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: bruh
+- 👀 I’m interested in web development,python,c++,sportprogramming
+- 🌱 I’m currently learning python,web-development
+- 💞️ I’m looking to collaborate on - 
+- 📫 How to reach me -
+- 😄 Pronouns: -
+- ⚡ Fun fact: -
 
 <!---
 ochpochmak14/ochpochmak14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
