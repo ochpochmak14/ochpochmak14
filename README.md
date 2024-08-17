@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development,python,c++,sportprogramming
 - 🌱 I’m currently learning python,web-development
 - 💞️ I’m looking to collaborate on - 
-- 📫 How to reach me -
+- 📫 How to reach me  -
 - 😄 Pronouns: -
 - ⚡ Fun fact: -
 
